@@ -1,0 +1,56 @@
+
+.fondoBio{
+  background-image: url(imagenes/img-fondo3.jpg);
+  background-size: 100%;
+}
+
+.formularioContacto{
+  box-sizing: border-box;
+} 
+input, label, textarea{
+  padding: 0.5em;
+  margin: 0.5em;
+}
+
+
+section{
+  text-align: center;
+}
+.integrantes{
+  text-align: center;
+}
+
+main.fotos{
+  background-image: url(imagenes/img-fondo3.jpeg);
+}
+.contenedor{
+  max-width: 600px;
+  width: 100%;
+  text-align: center;
+  box-sizing: border-box;
+  margin: 0 auto;
+}
+
+footer{
+  margin-top: 5em;
+  
+}
+
+.carousel-item {
+  height: 800px;
+  
+}
+
+.carousel-item img {
+  height: 100%;
+  width : 100%;
+  object-fit: cover;
+ 
+}
+
+
+.subtitel {
+  margin-top: 5px;
+}
+
+
